@@ -1,145 +1,145 @@
-Gender,Offencecategory,Offencetype,Violations
-Male,Violent Criminal Code Violation,Homicide,0.818181818
-Male,Violent Criminal Code Violation,Homicide,1.545454545
-Male,Violent Criminal Code Violation,Homicide,1
-Male,Violent Criminal Code Violation,Total other violent violations causing death,0.363636364
-Male,Violent Criminal Code Violation,Attempted murder,2.818181818
-Male,Violent Criminal Code Violation,Sexual assault,0.909090909
-Male,Violent Criminal Code Violation,Sexual assault,1.636363636
-Male,Violent Criminal Code Violation,Sexual assault,115.9090909
-Male,Violent Criminal Code Violation,Total sexual violations against children,42.81818182
-Male,Violent Criminal Code Violation,Total sexual violations against children,3.727272727
-Male,Violent Criminal Code Violation,Total sexual violations against children,0.090909091
-Male,Violent Criminal Code Violation,Total sexual violations against children,0.181818182
-Male,Violent Criminal Code Violation,Assault,17.27272727
-Male,Violent Criminal Code Violation,Assault,219.7272727
-Male,Violent Criminal Code Violation,Assault,311.6363636
-Male,Violent Criminal Code Violation,Total assaults against a peace officer,33.72727273
-Male,Violent Criminal Code Violation,Total other Assault,0.090909091
-Male,Violent Criminal Code Violation,Total other Assault,0.727272727
-Male,Violent Criminal Code Violation,Total other Assault,2.363636364
-Male,Violent Criminal Code Violation,Total firearms,0.727272727
-Male,Violent Criminal Code Violation,Total firearms,1.818181818
-Male,Violent Criminal Code Violation,Total firearms,3
-Male,Violent Criminal Code Violation,Total robbery,197.1818182
-Male,Violent Criminal Code Violation,Total forcible confinement or kidnapping,2.181818182
-Male,Violent Criminal Code Violation,Total forcible confinement or kidnapping,1.181818182
-Male,Violent Criminal Code Violation,Total forcible confinement or kidnapping,4.909090909
-Male,Violent Criminal Code Violation,Extortion,8.636363636
-Male,Violent Criminal Code Violation,Criminal harassment,10.09090909
-Male,Violent Criminal Code Violation,Uttering threats,124.8181818
-Male,Violent Criminal Code Violation,Indecent/Harassing communications,0.727272727
-Male,Violent Criminal Code Violation,Total other violent violations,2.454545455
-Male,Violent Criminal Code Violation,Total other violent violations,0.363636364
-Male,Violent Criminal Code Violation,Total other violent violations,0.090909091
-Male,Violent Criminal Code Violation,Total other violent violations,1.454545455
-Male,Violent Criminal Code Violation,Total other violent violations,0.363636364
-Male,Violent Criminal Code Violation,Total other violent violations,0.090909091
-Male,Violent Criminal Code Violation,Total other violent violations,0.090909091
-Male,Violent Criminal Code Violation,Total other violent violations,1.272727273
-Male,Violent Criminal Code Violation,Total other violent violations,1.545454545
-Male,Violent Criminal Code Violation,Total other violent violations,0.272727273
-Male,Total Property Crime Violations,Total breaking and entering,229.9090909
-Male,Total Property Crime Violations,Total breaking and entering,0.727272727
-Male,Total Property Crime Violations,Total possession of stolen property,86.63636364
-Male,Total Property Crime Violations,Total trafficking in stolen property,0.545454545
-Male,Total Property Crime Violations,Total theft of motor vehicle,70.27272727
-Male,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),4.181818182
-Male,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),0.636363636
-Male,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),0.545454545
-Male,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),67.81818182
-Male,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),33.18181818
-Male,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),154.2727273
-Male,Total Property Crime Violations,Fraud,23.36363636
-Male,Total Property Crime Violations,Identity theft,0.363636364
-Male,Total Property Crime Violations,Identify fraud,2.727272727
-Male,Total Property Crime Violations,Total mischief,231.7272727
-Male,Total Property Crime Violations,Arson,27.36363636
-Male,Total Other Criminal Code violations,Counterfeiting,5.272727273
-Male,Total Other Criminal Code violations,Total weapons violations,1
-Male,Total Other Criminal Code violations,Total weapons violations,0.272727273
-Male,Total Other Criminal Code violations,Total weapons violations,1.909090909
-Male,Total Other Criminal Code violations,Total weapons violations,86.09090909
-Male,Total Other Criminal Code violations,Total weapons violations,0.727272727
-Male,Total Other Criminal Code violations,"Possession of, or accessing child pornography",4.181818182
-Male,Total Other Criminal Code violations,"Making, or distribution of child pornography",1.636363636
-Male,Total Other Criminal Code violations,Disturb the peace,81.81818182
-Male,Total Other Criminal Code violations,Total administration of justice violations,402.3636364
-Male,Total Other Criminal Code violations,Total administration of justice violations,2.181818182
-Male,Total Other Criminal Code violations,Total administration of justice violations,0.181818182
-Male,Total Other Criminal Code violations,Total administration of justice violations,8
-Male,Total Other Criminal Code violations,Total administration of justice violations,14
-Male,Total Other Criminal Code violations,Total administration of justice violations,9
-Male,Total Other Criminal Code violations,Total other other violations,4
-Male,Total Other Criminal Code violations,Total other other violations,36.72727273
-Male,Total Other Criminal Code violations,Total other other violations,4.636363636
-Male,Total Other Criminal Code violations,Total other other violations,3.272727273
-Male,Total Other Criminal Code violations,Total other other violations,3
-Male,Total Other Criminal Code violations,Total other other violations,0.909090909
-Male,Total Other Criminal Code violations,Total other other violations,0.272727273
-Male,Total Other Criminal Code violations,Total other other violations,10.09090909
-Male,Total Other Criminal Code violations,Total other other violations,1.545454545
-Male,Total Other Criminal Code violations,Total other other violations,0.272727273
-Male,Total Other Criminal Code violations,Total other other violations,0.545454545
-Female,Violent Criminal Code Violation,Homicide,0.181818182
-Female,Violent Criminal Code Violation,Attempted murder,0.181818182
-Female,Violent Criminal Code Violation,Sexual assault,0.181818182
-Female,Violent Criminal Code Violation,Sexual assault,2.636363636
-Female,Violent Criminal Code Violation,Total sexual violations against children,1.363636364
-Female,Violent Criminal Code Violation,Total sexual violations against children,0.454545455
-Female,Violent Criminal Code Violation,Assault,4.272727273
-Female,Violent Criminal Code Violation,Assault,63.27272727
-Female,Violent Criminal Code Violation,Assault,201.2727273
-Female,Violent Criminal Code Violation,Total assaults against a peace officer,29.36363636
-Female,Violent Criminal Code Violation,Total other Assault,0.090909091
-Female,Violent Criminal Code Violation,Total other Assault,0.272727273
-Female,Violent Criminal Code Violation,Total other Assault,0.909090909
-Female,Violent Criminal Code Violation,Total firearms,0.272727273
-Female,Violent Criminal Code Violation,Total robbery,34.63636364
-Female,Violent Criminal Code Violation,Total forcible confinement or kidnapping,0.181818182
-Female,Violent Criminal Code Violation,Total forcible confinement or kidnapping,0.636363636
-Female,Violent Criminal Code Violation,Extortion,0.636363636
-Female,Violent Criminal Code Violation,Criminal harassment,3.727272727
-Female,Violent Criminal Code Violation,Uttering threats,30.63636364
-Female,Violent Criminal Code Violation,Indecent/Harassing communications,0.727272727
-Female,Violent Criminal Code Violation,Total other violent violations,0.090909091
-Female,Violent Criminal Code Violation,Total other violent violations,0.090909091
-Female,Violent Criminal Code Violation,Total other violent violations,0.272727273
-Female,Violent Criminal Code Violation,Total other violent violations,0.454545455
-Female,Total Property Crime Violations,Total breaking and entering,39.63636364
-Female,Total Property Crime Violations,Total breaking and entering,0.181818182
-Female,Total Property Crime Violations,Total possession of stolen property,24.54545455
-Female,Total Property Crime Violations,Total trafficking in stolen property,0
-Female,Total Property Crime Violations,Total theft of motor vehicle,20.81818182
-Female,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),1
-Female,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),0.181818182
-Female,Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),0.181818182
-Female,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),25.27272727
-Female,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),5.545454545
-Female,Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),164.4545455
-Female,Total Property Crime Violations,Fraud,17.09090909
-Female,Total Property Crime Violations,Identity theft,0.090909091
-Female,Total Property Crime Violations,Identify fraud,2
-Female,Total Property Crime Violations,Total mischief,46.36363636
-Female,Total Property Crime Violations,Arson,3.363636364
-Female,Total Other Criminal Code violations,Counterfeiting,0.545454545
-Female,Total Other Criminal Code violations,Total weapons violations,8.363636364
-Female,Total Other Criminal Code violations,Total weapons violations,0.090909091
-Female,Total Other Criminal Code violations,"Possession of, or accessing child pornography",0.363636364
-Female,Total Other Criminal Code violations,"Making, or distribution of child pornography",0.363636364
-Female,Total Other Criminal Code violations,Total prostitution,0.181818182
-Female,Total Other Criminal Code violations,Total prostitution,0.181818182
-Female,Total Other Criminal Code violations,Total prostitution,0.363636364
-Female,Total Other Criminal Code violations,Disturb the peace,35.36363636
-Female,Total Other Criminal Code violations,Total administration of justice violations,168.0909091
-Female,Total Other Criminal Code violations,Total administration of justice violations,0.454545455
-Female,Total Other Criminal Code violations,Total administration of justice violations,3.181818182
-Female,Total Other Criminal Code violations,Total administration of justice violations,5.818181818
-Female,Total Other Criminal Code violations,Total administration of justice violations,4.909090909
-Female,Total Other Criminal Code violations,Total other other violations,0.545454545
-Female,Total Other Criminal Code violations,Total other other violations,11.81818182
-Female,Total Other Criminal Code violations,Total other other violations,0.181818182
-Female,Total Other Criminal Code violations,Total other other violations,0.545454545
-Female,Total Other Criminal Code violations,Total other other violations,0.636363636
-Female,Total Other Criminal Code violations,Total other other violations,1.545454545
-Female,Total Other Criminal Code violations,Total other other violations,0.454545455
+Offencecategory,Gender,Offencetype,Violations
+Violent Criminal Code Violation,Male,Homicide,0.818181818
+Violent Criminal Code Violation,Male,Homicide,1.545454545
+Violent Criminal Code Violation,Male,Homicide,1
+Violent Criminal Code Violation,Male,Total other violent violations causing death,0.363636364
+Violent Criminal Code Violation,Male,Attempted murder,2.818181818
+Violent Criminal Code Violation,Male,Sexual assault,0.909090909
+Violent Criminal Code Violation,Male,Sexual assault,1.636363636
+Violent Criminal Code Violation,Male,Sexual assault,115.9090909
+Violent Criminal Code Violation,Male,Total sexual violations against children,42.81818182
+Violent Criminal Code Violation,Male,Total sexual violations against children,3.727272727
+Violent Criminal Code Violation,Male,Total sexual violations against children,0.090909091
+Violent Criminal Code Violation,Male,Total sexual violations against children,0.181818182
+Violent Criminal Code Violation,Male,Assault,17.27272727
+Violent Criminal Code Violation,Male,Assault,219.7272727
+Violent Criminal Code Violation,Male,Assault,311.6363636
+Violent Criminal Code Violation,Male,Total assaults against a peace officer,33.72727273
+Violent Criminal Code Violation,Male,Total other Assault,0.090909091
+Violent Criminal Code Violation,Male,Total other Assault,0.727272727
+Violent Criminal Code Violation,Male,Total other Assault,2.363636364
+Violent Criminal Code Violation,Male,Total firearms,0.727272727
+Violent Criminal Code Violation,Male,Total firearms,1.818181818
+Violent Criminal Code Violation,Male,Total firearms,3
+Violent Criminal Code Violation,Male,Total robbery,197.1818182
+Violent Criminal Code Violation,Male,Total forcible confinement or kidnapping,2.181818182
+Violent Criminal Code Violation,Male,Total forcible confinement or kidnapping,1.181818182
+Violent Criminal Code Violation,Male,Total forcible confinement or kidnapping,4.909090909
+Violent Criminal Code Violation,Male,Extortion,8.636363636
+Violent Criminal Code Violation,Male,Criminal harassment,10.09090909
+Violent Criminal Code Violation,Male,Uttering threats,124.8181818
+Violent Criminal Code Violation,Male,Indecent/Harassing communications,0.727272727
+Violent Criminal Code Violation,Male,Total other violent violations,2.454545455
+Violent Criminal Code Violation,Male,Total other violent violations,0.363636364
+Violent Criminal Code Violation,Male,Total other violent violations,0.090909091
+Violent Criminal Code Violation,Male,Total other violent violations,1.454545455
+Violent Criminal Code Violation,Male,Total other violent violations,0.363636364
+Violent Criminal Code Violation,Male,Total other violent violations,0.090909091
+Violent Criminal Code Violation,Male,Total other violent violations,0.090909091
+Violent Criminal Code Violation,Male,Total other violent violations,1.272727273
+Violent Criminal Code Violation,Male,Total other violent violations,1.545454545
+Violent Criminal Code Violation,Male,Total other violent violations,0.272727273
+Total Property Crime Violations,Male,Total breaking and entering,229.9090909
+Total Property Crime Violations,Male,Total breaking and entering,0.727272727
+Total Property Crime Violations,Male,Total possession of stolen property,86.63636364
+Total Property Crime Violations,Male,Total trafficking in stolen property,0.545454545
+Total Property Crime Violations,Male,Total theft of motor vehicle,70.27272727
+Total Property Crime Violations,Male,Total theft over $5000 (non-motor vehicle),4.181818182
+Total Property Crime Violations,Male,Total theft over $5000 (non-motor vehicle),0.636363636
+Total Property Crime Violations,Male,Total theft over $5000 (non-motor vehicle),0.545454545
+Total Property Crime Violations,Male,Total theft under $5000 (non-motor vehicle),67.81818182
+Total Property Crime Violations,Male,Total theft under $5000 (non-motor vehicle),33.18181818
+Total Property Crime Violations,Male,Total theft under $5000 (non-motor vehicle),154.2727273
+Total Property Crime Violations,Male,Fraud,23.36363636
+Total Property Crime Violations,Male,Identity theft,0.363636364
+Total Property Crime Violations,Male,Identify fraud,2.727272727
+Total Property Crime Violations,Male,Total mischief,231.7272727
+Total Property Crime Violations,Male,Arson,27.36363636
+Total Other Criminal Code violations,Male,Counterfeiting,5.272727273
+Total Other Criminal Code violations,Male,Total weapons violations,1
+Total Other Criminal Code violations,Male,Total weapons violations,0.272727273
+Total Other Criminal Code violations,Male,Total weapons violations,1.909090909
+Total Other Criminal Code violations,Male,Total weapons violations,86.09090909
+Total Other Criminal Code violations,Male,Total weapons violations,0.727272727
+Total Other Criminal Code violations,Male,"Possession of, or accessing child pornography",4.181818182
+Total Other Criminal Code violations,Male,"Making, or distribution of child pornography",1.636363636
+Total Other Criminal Code violations,Male,Disturb the peace,81.81818182
+Total Other Criminal Code violations,Male,Total administration of justice violations,402.3636364
+Total Other Criminal Code violations,Male,Total administration of justice violations,2.181818182
+Total Other Criminal Code violations,Male,Total administration of justice violations,0.181818182
+Total Other Criminal Code violations,Male,Total administration of justice violations,8
+Total Other Criminal Code violations,Male,Total administration of justice violations,14
+Total Other Criminal Code violations,Male,Total administration of justice violations,9
+Total Other Criminal Code violations,Male,Total other other violations,4
+Total Other Criminal Code violations,Male,Total other other violations,36.72727273
+Total Other Criminal Code violations,Male,Total other other violations,4.636363636
+Total Other Criminal Code violations,Male,Total other other violations,3.272727273
+Total Other Criminal Code violations,Male,Total other other violations,3
+Total Other Criminal Code violations,Male,Total other other violations,0.909090909
+Total Other Criminal Code violations,Male,Total other other violations,0.272727273
+Total Other Criminal Code violations,Male,Total other other violations,10.09090909
+Total Other Criminal Code violations,Male,Total other other violations,1.545454545
+Total Other Criminal Code violations,Male,Total other other violations,0.272727273
+Total Other Criminal Code violations,Male,Total other other violations,0.545454545
+Violent Criminal Code Violation,Female,Homicide,0.181818182
+Violent Criminal Code Violation,Female,Attempted murder,0.181818182
+Violent Criminal Code Violation,Female,Sexual assault,0.181818182
+Violent Criminal Code Violation,Female,Sexual assault,2.636363636
+Violent Criminal Code Violation,Female,Total sexual violations against children,1.363636364
+Violent Criminal Code Violation,Female,Total sexual violations against children,0.454545455
+Violent Criminal Code Violation,Female,Assault,4.272727273
+Violent Criminal Code Violation,Female,Assault,63.27272727
+Violent Criminal Code Violation,Female,Assault,201.2727273
+Violent Criminal Code Violation,Female,Total assaults against a peace officer,29.36363636
+Violent Criminal Code Violation,Female,Total other Assault,0.090909091
+Violent Criminal Code Violation,Female,Total other Assault,0.272727273
+Violent Criminal Code Violation,Female,Total other Assault,0.909090909
+Violent Criminal Code Violation,Female,Total firearms,0.272727273
+Violent Criminal Code Violation,Female,Total robbery,34.63636364
+Violent Criminal Code Violation,Female,Total forcible confinement or kidnapping,0.181818182
+Violent Criminal Code Violation,Female,Total forcible confinement or kidnapping,0.636363636
+Violent Criminal Code Violation,Female,Extortion,0.636363636
+Violent Criminal Code Violation,Female,Criminal harassment,3.727272727
+Violent Criminal Code Violation,Female,Uttering threats,30.63636364
+Violent Criminal Code Violation,Female,Indecent/Harassing communications,0.727272727
+Violent Criminal Code Violation,Female,Total other violent violations,0.090909091
+Violent Criminal Code Violation,Female,Total other violent violations,0.090909091
+Violent Criminal Code Violation,Female,Total other violent violations,0.272727273
+Violent Criminal Code Violation,Female,Total other violent violations,0.454545455
+Total Property Crime Violations,Female,Total breaking and entering,39.63636364
+Total Property Crime Violations,Female,Total breaking and entering,0.181818182
+Total Property Crime Violations,Female,Total possession of stolen property,24.54545455
+Total Property Crime Violations,Female,Total trafficking in stolen property,0
+Total Property Crime Violations,Female,Total theft of motor vehicle,20.81818182
+Total Property Crime Violations,Female,Total theft over $5000 (non-motor vehicle),1
+Total Property Crime Violations,Female,Total theft over $5000 (non-motor vehicle),0.181818182
+Total Property Crime Violations,Female,Total theft over $5000 (non-motor vehicle),0.181818182
+Total Property Crime Violations,Female,Total theft under $5000 (non-motor vehicle),25.27272727
+Total Property Crime Violations,Female,Total theft under $5000 (non-motor vehicle),5.545454545
+Total Property Crime Violations,Female,Total theft under $5000 (non-motor vehicle),164.4545455
+Total Property Crime Violations,Female,Fraud,17.09090909
+Total Property Crime Violations,Female,Identity theft,0.090909091
+Total Property Crime Violations,Female,Identify fraud,2
+Total Property Crime Violations,Female,Total mischief,46.36363636
+Total Property Crime Violations,Female,Arson,3.363636364
+Total Other Criminal Code violations,Female,Counterfeiting,0.545454545
+Total Other Criminal Code violations,Female,Total weapons violations,8.363636364
+Total Other Criminal Code violations,Female,Total weapons violations,0.090909091
+Total Other Criminal Code violations,Female,"Possession of, or accessing child pornography",0.363636364
+Total Other Criminal Code violations,Female,"Making, or distribution of child pornography",0.363636364
+Total Other Criminal Code violations,Female,Total prostitution,0.181818182
+Total Other Criminal Code violations,Female,Total prostitution,0.181818182
+Total Other Criminal Code violations,Female,Total prostitution,0.363636364
+Total Other Criminal Code violations,Female,Disturb the peace,35.36363636
+Total Other Criminal Code violations,Female,Total administration of justice violations,168.0909091
+Total Other Criminal Code violations,Female,Total administration of justice violations,0.454545455
+Total Other Criminal Code violations,Female,Total administration of justice violations,3.181818182
+Total Other Criminal Code violations,Female,Total administration of justice violations,5.818181818
+Total Other Criminal Code violations,Female,Total administration of justice violations,4.909090909
+Total Other Criminal Code violations,Female,Total other other violations,0.545454545
+Total Other Criminal Code violations,Female,Total other other violations,11.81818182
+Total Other Criminal Code violations,Female,Total other other violations,0.181818182
+Total Other Criminal Code violations,Female,Total other other violations,0.545454545
+Total Other Criminal Code violations,Female,Total other other violations,0.636363636
+Total Other Criminal Code violations,Female,Total other other violations,1.545454545
+Total Other Criminal Code violations,Female,Total other other violations,0.454545455
