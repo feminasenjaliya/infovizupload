@@ -1,0 +1,145 @@
+Offencecategory,Offencetype,Violation,Gender,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Violent Criminal Code Violation,Homicide,"Murder, first degree",Male,1,2,3,1,0,0,1,0,0,1,0
+Violent Criminal Code Violation,Homicide,"Murder, second degree",Male,4,3,1,2,0,4,1,1,0,1,0
+Violent Criminal Code Violation,Homicide,Manslaughter,Male,1,3,0,0,0,0,0,5,0,1,1
+Violent Criminal Code Violation,Total other violent violations causing death,Criminal negligence causing death,Male,0,1,1,0,0,0,0,0,2,0,0
+Violent Criminal Code Violation,Attempted murder,Attempted murder,Male,1,3,6,3,1,4,0,6,3,4,0
+Violent Criminal Code Violation,Sexual assault,"Sexual assault, level 3, aggravated",Male,0,0,1,1,0,7,0,0,0,1,0
+Violent Criminal Code Violation,Sexual assault,"Sexual assault, level 2, weapon or bodily harm",Male,4,3,1,1,3,3,0,0,2,1,0
+Violent Criminal Code Violation,Sexual assault,"Sexual assault, level 1",Male,105,119,152,105,104,114,90,102,100,145,139
+Violent Criminal Code Violation,Total sexual violations against children,Sexual interference,Male,26,30,39,28,43,39,38,45,53,79,51
+Violent Criminal Code Violation,Total sexual violations against children,Invitation to sexual touching,Male,2,3,4,3,7,3,4,2,4,5,4
+Violent Criminal Code Violation,Total sexual violations against children,Sexual exploitation,Male,0,0,0,0,0,0,0,1,0,0,0
+Violent Criminal Code Violation,Total sexual violations against children,Making sexually explicit material available to children,Male,0,0,0,0,0,0,0,0,0,0,2
+Violent Criminal Code Violation,Assault,"Assault, level 3, aggravated",Male,34,31,17,22,17,12,8,18,11,11,9
+Violent Criminal Code Violation,Assault,"Assault, level 2, weapon or bodily harm",Male,382,320,305,243,226,186,160,160,155,137,143
+Violent Criminal Code Violation,Assault,"Assault, level 1",Male,444,440,401,383,300,279,237,257,226,247,214
+Violent Criminal Code Violation,Total assaults against a peace officer,Total assaults against a peace officer,Male,53,51,48,32,32,29,23,26,28,24,25
+Violent Criminal Code Violation,Total other Assault,Unlawfully causing bodily harm,Male,1,0,0,0,0,0,0,0,0,0,0
+Violent Criminal Code Violation,Total other Assault,Criminal negligence causing bodily harm,Male,0,0,1,0,1,2,1,2,1,0,0
+Violent Criminal Code Violation,Total other Assault,Other assaults,Male,8,4,1,2,0,7,1,2,0,0,1
+Violent Criminal Code Violation,Total firearms,Discharge firearm with intent,Male,2,1,1,0,0,0,0,0,2,1,1
+Violent Criminal Code Violation,Total firearms,Using firearm in commission of offence,Male,2,2,2,3,3,0,2,3,1,1,1
+Violent Criminal Code Violation,Total firearms,Pointing a firearm,Male,3,8,3,0,3,3,3,2,4,3,1
+Violent Criminal Code Violation,Total robbery,Robbery,Male,261,263,299,247,261,197,163,142,129,106,101
+Violent Criminal Code Violation,Total forcible confinement or kidnapping,Forcible confinement or kidnapping,Male,15,9,0,0,0,0,0,0,0,0,0
+Violent Criminal Code Violation,Total forcible confinement or kidnapping,Kidnapping,Male,0,0,5,3,2,1,1,0,0,1,0
+Violent Criminal Code Violation,Total forcible confinement or kidnapping,Forcible confinement,Male,0,0,9,8,4,7,7,2,2,9,6
+Violent Criminal Code Violation,Extortion,Extortion,Male,16,11,8,9,9,4,8,11,4,10,5
+Violent Criminal Code Violation,Criminal harassment,Criminal harassment,Male,7,11,8,11,7,18,6,12,11,9,11
+Violent Criminal Code Violation,Uttering threats,Uttering threats,Male,193,163,151,143,113,106,97,92,96,121,98
+Violent Criminal Code Violation,Indecent/Harassing communications,Indecent/Harassing communications,Male,3,1,1,2,0,0,0,1,0,0,0
+Violent Criminal Code Violation,Total other violent violations,Incest,Male,2,0,3,2,2,3,3,3,5,2,2
+Violent Criminal Code Violation,Total other violent violations,Anal intercourse,Male,1,0,1,1,0,1,0,0,0,0,0
+Violent Criminal Code Violation,Total other violent violations,"Bestiality, commit or compel person",Male,0,0,0,0,0,0,0,1,0,0,0
+Violent Criminal Code Violation,Total other violent violations,Voyeurism,Male,0,0,1,3,3,3,0,0,1,4,1
+Violent Criminal Code Violation,Total other violent violations,Nonconsensual distribution of intimate images,Male,0,0,0,0,0,0,0,0,1,3,0
+Violent Criminal Code Violation,Total other violent violations,Hostage-taking,Male,0,0,1,0,0,0,0,0,0,0,0
+Violent Criminal Code Violation,Total other violent violations,Trafficking in persons,Male,0,0,0,0,0,0,0,0,0,0,1
+Violent Criminal Code Violation,Total other violent violations,Intimidation of a justice system participant or a journalist,Male,0,0,0,0,6,3,2,1,0,1,1
+Violent Criminal Code Violation,Total other violent violations,"Arson, disregard for human life",Male,1,1,4,3,1,1,1,0,3,2,0
+Violent Criminal Code Violation,Total other violent violations,Other violent violations,Male,0,1,0,0,0,0,0,0,1,1,0
+Total Property Crime Violations,Total breaking and entering,Breaking and entering,Male,374,407,300,278,268,240,154,176,138,105,89
+Total Property Crime Violations,Total breaking and entering,Breaking and entering to steal a firearm,Male,0,3,0,0,3,0,0,0,0,0,2
+Total Property Crime Violations,Total possession of stolen property,Total possession of stolen property,Male,164,168,155,123,77,56,51,59,36,38,26
+Total Property Crime Violations,Total trafficking in stolen property,Total trafficking in stolen property,Male,0,0,0,0,1,2,2,1,0,0,0
+Total Property Crime Violations,Total theft of motor vehicle,Total Theft of motor vehicle,Male,109,125,68,73,69,58,57,70,51,45,48
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Theft over $5,000",Male,11,8,2,11,4,5,0,1,0,3,1
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Theft over $5,000 from a motor vehicle",Male,0,2,1,1,0,0,0,2,0,0,1
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Shoplifting over $5,000",Male,1,1,0,3,0,0,0,0,0,1,0
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Theft $5,000 or under",Male,104,110,96,80,95,60,61,55,29,35,21
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Theft $5,000 or under from a motor vehicle",Male,30,40,48,54,59,35,27,29,18,16,9
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Shoplifting $5,000 or under",Male,256,287,251,188,166,141,88,100,68,64,88
+Total Property Crime Violations,Fraud,Fraud,Male,39,57,40,22,21,13,17,13,8,16,11
+Total Property Crime Violations,Identity theft,Identity Theft,Male,0,0,0,0,0,2,0,1,0,1,0
+Total Property Crime Violations,Identify fraud,Identity Fraud,Male,0,0,6,3,2,3,1,7,3,3,2
+Total Property Crime Violations,Total mischief,Mischief,Male,438,449,325,254,254,203,164,109,118,98,137
+Total Property Crime Violations,Arson,Arson,Male,37,53,45,20,30,36,14,27,23,15,1
+Total Other Criminal Code violations,Counterfeiting,Counterfeiting,Male,2,4,17,4,4,10,7,1,1,5,3
+Total Other Criminal Code violations,Total weapons violations,"Offensive weapons, explosives",Male,1,1,1,0,1,0,5,0,0,2,0
+Total Other Criminal Code violations,Total weapons violations,Weapons trafficking,Male,0,0,0,0,2,1,0,0,0,0,0
+Total Other Criminal Code violations,Total weapons violations,Weapons possession contrary to order,Male,2,2,6,1,1,2,2,2,1,0,2
+Total Other Criminal Code violations,Total weapons violations,Possession of weapons,Male,138,138,125,105,95,96,57,46,42,46,59
+Total Other Criminal Code violations,Total weapons violations,Unsafe storage of firearms,Male,0,0,1,0,0,3,1,0,2,0,1
+Total Other Criminal Code violations,"Possession of, or accessing child pornography","Possession of, or accessing child pornography",Male,4,4,3,4,0,6,2,14,5,2,2
+Total Other Criminal Code violations,"Making, or distribution of child pornography","Making, or distribution of child pornography",Male,0,0,0,0,0,0,0,1,4,5,8
+Total Other Criminal Code violations,Disturb the peace,Disturb the peace,Male,137,159,196,129,88,55,33,24,27,31,21
+Total Other Criminal Code violations,Total administration of justice violations,Fail to comply with order,Male,505,559,531,440,409,325,351,380,323,300,303
+Total Other Criminal Code violations,Total administration of justice violations,Escape or helps to escape from lawful custody,Male,5,5,0,2,4,1,2,2,2,1,0
+Total Other Criminal Code violations,Total administration of justice violations,Prisoner unlawfully at large,Male,1,0,0,1,0,0,0,0,0,0,0
+Total Other Criminal Code violations,Total administration of justice violations,Fail to appear,Male,7,10,12,7,17,10,8,3,5,6,3
+Total Other Criminal Code violations,Total administration of justice violations,Breach of probation,Male,22,18,20,16,10,18,9,13,11,8,9
+Total Other Criminal Code violations,Total administration of justice violations,Other violations against the administration of law and justice (Part IV Criminal Code),Male,16,8,9,22,7,9,5,9,4,4,6
+Total Other Criminal Code violations,Total other other violations,Indecent acts,Male,7,4,7,4,4,2,8,2,4,2,0
+Total Other Criminal Code violations,Total other other violations,Obstruct public or peace officer,Male,58,45,63,42,27,28,44,28,26,24,19
+Total Other Criminal Code violations,Total other other violations,Trespass at night,Male,10,10,3,2,7,5,2,5,2,3,2
+Total Other Criminal Code violations,Total other other violations,Utter threats to property or animal,Male,6,5,2,4,2,4,1,2,5,1,4
+Total Other Criminal Code violations,Total other other violations,Offences against public order (Part II Criminal Code),Male,1,1,0,6,19,5,0,1,0,0,0
+Total Other Criminal Code violations,Total other other violations,Firearms and other offensive weapons (Part III Criminal Code),Male,1,0,2,1,2,1,1,0,0,1,1
+Total Other Criminal Code violations,Total other other violations,"Sexual offences, public morals and disorderly conduct (Part V Criminal Code)",Male,2,0,0,0,0,0,0,0,1,0,0
+Total Other Criminal Code violations,Total other other violations,Offences against rights of property (Part IX Criminal Code),Male,16,16,9,16,12,8,12,9,5,6,2
+Total Other Criminal Code violations,Total other other violations,Willful and forbidden acts in respect of certain property (Part XI Criminal Code),Male,0,4,3,1,5,3,0,0,0,1,0
+Total Other Criminal Code violations,Total other other violations,"Attempts, conspiracies, accessories (Part XIII Criminal Code)",Male,0,0,0,0,2,0,1,0,0,0,0
+Total Other Criminal Code violations,Total other other violations,All other Criminal Code (includes Part XII.1 Criminal Code),Male,1,1,0,0,0,1,0,1,1,1,0
+Violent Criminal Code Violation,Homicide,Manslaughter,Female,1,0,0,0,0,0,0,0,0,0,1
+Violent Criminal Code Violation,Attempted murder,Attempted murder,Female,0,0,1,0,0,1,0,0,0,0,0
+Violent Criminal Code Violation,Sexual assault,"Sexual assault, level 3, aggravated",Female,0,0,0,0,0,1,1,0,0,0,0
+Violent Criminal Code Violation,Sexual assault,"Sexual assault, level 1",Female,1,4,2,2,3,2,2,4,1,3,5
+Violent Criminal Code Violation,Total sexual violations against children,Sexual interference,Female,1,1,0,1,1,1,0,2,4,1,3
+Violent Criminal Code Violation,Total sexual violations against children,Invitation to sexual touching,Female,0,1,0,0,1,1,1,1,0,0,0
+Violent Criminal Code Violation,Assault,"Assault, level 3, aggravated",Female,9,4,5,8,2,3,2,4,5,2,3
+Violent Criminal Code Violation,Assault,"Assault, level 2, weapon or bodily harm",Female,88,92,67,83,70,52,48,55,39,51,51
+Violent Criminal Code Violation,Assault,"Assault, level 1",Female,314,279,265,217,190,187,134,160,157,151,160
+Violent Criminal Code Violation,Total assaults against a peace officer,Total assaults against a peace officer,Female,25,35,45,38,34,32,18,35,19,22,20
+Violent Criminal Code Violation,Total other Assault,Unlawfully causing bodily harm,Female,0,0,0,0,0,1,0,0,0,0,0
+Violent Criminal Code Violation,Total other Assault,Criminal negligence causing bodily harm,Female,0,0,0,0,0,0,1,1,0,0,1
+Violent Criminal Code Violation,Total other Assault,Other assaults,Female,3,3,1,2,0,0,0,0,1,0,0
+Violent Criminal Code Violation,Total firearms,Pointing a firearm,Female,0,1,0,0,0,0,1,0,1,0,0
+Violent Criminal Code Violation,Total robbery,Robbery,Female,66,68,41,41,29,29,28,18,21,18,22
+Violent Criminal Code Violation,Total forcible confinement or kidnapping,Kidnapping,Female,0,0,0,0,2,0,0,0,0,0,0
+Violent Criminal Code Violation,Total forcible confinement or kidnapping,Forcible confinement,Female,0,0,1,3,0,1,1,0,0,0,1
+Violent Criminal Code Violation,Extortion,Extortion,Female,0,1,1,0,0,3,2,0,0,0,0
+Violent Criminal Code Violation,Criminal harassment,Criminal harassment,Female,3,3,9,2,10,4,1,3,2,3,1
+Violent Criminal Code Violation,Uttering threats,Uttering threats,Female,42,29,55,41,26,25,22,35,16,31,15
+Violent Criminal Code Violation,Indecent/Harassing communications,Indecent/Harassing communications,Female,2,3,0,0,0,1,0,0,2,0,0
+Violent Criminal Code Violation,Total other violent violations,Incest,Female,0,0,0,0,0,0,0,0,1,0,0
+Violent Criminal Code Violation,Total other violent violations,Voyeurism,Female,0,0,0,0,0,0,0,0,0,0,1
+Violent Criminal Code Violation,Total other violent violations,Nonconsensual distribution of intimate images,Female,0,0,0,0,0,0,0,0,1,2,0
+Violent Criminal Code Violation,Total other violent violations,"Arson, disregard for human life",Female,1,0,0,0,1,1,1,1,0,0,0
+Total Property Crime Violations,Total breaking and entering,Breaking and entering,Female,69,55,51,46,53,39,33,25,15,22,28
+Total Property Crime Violations,Total breaking and entering,Breaking and entering to steal a firearm,Female,0,0,0,0,1,0,0,1,0,0,0
+Total Property Crime Violations,Total possession of stolen property,Total possession of stolen property,Female,59,47,37,30,25,14,8,16,8,14,12
+Total Property Crime Violations,Total trafficking in stolen property,Total trafficking in stolen property,Female,0,0,0,0,0,0,0,0,0,0,0
+Total Property Crime Violations,Total theft of motor vehicle,Total Theft of motor vehicle,Female,38,32,38,17,14,11,20,15,17,12,15
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Theft over $5,000",Female,2,0,0,1,3,1,0,1,1,2,0
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Theft over $5,000 from a motor vehicle",Female,0,0,2,0,0,0,0,0,0,0,0
+Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),"Shoplifting over $5,000",Female,0,0,0,1,0,0,0,0,0,1,0
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Theft $5,000 or under",Female,38,37,25,41,24,17,19,24,23,12,18
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Theft $5,000 or under from a motor vehicle",Female,4,4,4,8,10,7,7,8,3,5,1
+Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),"Shoplifting $5,000 or under",Female,293,330,342,229,130,110,93,81,81,53,67
+Total Property Crime Violations,Fraud,Fraud,Female,41,32,19,14,14,18,9,9,7,10,15
+Total Property Crime Violations,Identity theft,Identity Theft,Female,0,0,0,0,0,0,0,1,0,0,0
+Total Property Crime Violations,Identify fraud,Identity Fraud,Female,0,0,1,1,0,4,4,4,4,2,2
+Total Property Crime Violations,Total mischief,Mischief,Female,80,53,64,50,56,50,41,29,33,29,25
+Total Property Crime Violations,Arson,Arson,Female,4,4,7,1,3,5,2,1,1,3,6
+Total Other Criminal Code violations,Counterfeiting,Counterfeiting,Female,1,1,1,0,0,0,0,0,1,0,2
+Total Other Criminal Code violations,Total weapons violations,Possession of weapons,Female,14,9,12,12,9,4,5,9,10,3,5
+Total Other Criminal Code violations,Total weapons violations,Unsafe storage of firearms,Female,0,0,0,0,0,1,0,0,0,0,0
+Total Other Criminal Code violations,"Possession of, or accessing child pornography","Possession of, or accessing child pornography",Female,0,0,0,1,0,0,0,1,2,0,0
+Total Other Criminal Code violations,"Making, or distribution of child pornography","Making, or distribution of child pornography",Female,0,0,0,0,0,0,0,0,4,0,0
+Total Other Criminal Code violations,Total prostitution,Procuring,Female,0,0,1,0,1,0,0,0,0,0,0
+Total Other Criminal Code violations,Total prostitution,Obtains or communicates with a person under age 18 for purpose of sex,Female,0,0,0,0,1,1,0,0,0,0,0
+Total Other Criminal Code violations,Total prostitution,Other prostitution,Female,1,1,0,0,2,0,0,0,0,0,0
+Total Other Criminal Code violations,Disturb the peace,Disturb the peace,Female,55,75,83,60,41,22,14,12,10,9,8
+Total Other Criminal Code violations,Total administration of justice violations,Fail to comply with order,Female,202,212,200,199,174,171,123,157,175,115,121
+Total Other Criminal Code violations,Total administration of justice violations,Escape or helps to escape from lawful custody,Female,1,0,0,2,1,0,0,0,0,1,0
+Total Other Criminal Code violations,Total administration of justice violations,Fail to appear,Female,9,2,8,4,2,6,1,1,1,0,1
+Total Other Criminal Code violations,Total administration of justice violations,Breach of probation,Female,5,5,7,10,7,5,5,7,4,5,4
+Total Other Criminal Code violations,Total administration of justice violations,Other violations against the administration of law and justice (Part IV Criminal Code),Female,15,5,9,6,0,5,2,6,3,2,1
+Total Other Criminal Code violations,Total other other violations,Indecent acts,Female,2,1,2,1,0,0,0,0,0,0,0
+Total Other Criminal Code violations,Total other other violations,Obstruct public or peace officer,Female,16,19,16,17,12,13,13,7,8,6,3
+Total Other Criminal Code violations,Total other other violations,Trespass at night,Female,0,0,0,0,1,0,1,0,0,0,0
+Total Other Criminal Code violations,Total other other violations,Utter threats to property or animal,Female,1,1,1,0,0,2,0,0,0,0,1
+Total Other Criminal Code violations,Total other other violations,Offences against public order (Part II Criminal Code),Female,0,3,1,0,3,0,0,0,0,0,0
+Total Other Criminal Code violations,Total other other violations,Offences against rights of property (Part IX Criminal Code),Female,1,3,0,1,1,2,2,6,1,0,0
+Total Other Criminal Code violations,Total other other violations,Willful and forbidden acts in respect of certain property (Part XI Criminal Code),Female,0,2,0,0,0,1,0,0,0,1,1
