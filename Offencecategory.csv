@@ -1,31 +1,12 @@
-Offencecategory,Offencetype,Violations
-Total Other Criminal Code violations,Counterfeiting,6
-Total Other Criminal Code violations,Disturb the peace,117
-Total Other Criminal Code violations,"Making, or distribution of child pornography",2
-Total Other Criminal Code violations,"Possession of, or accessing child pornography",4
-Total Other Criminal Code violations,Total administration of justice violations,618
-Total Other Criminal Code violations,Total other other violations,81
-Total Other Criminal Code violations,Total prostitution,0.72
-Total Other Criminal Code violations,Total weapons violations,98
-Total Property Crime Violations,Arson,31
-Total Property Crime Violations,Fraud,40
-Total Property Crime Violations,Identify fraud,5
-Total Property Crime Violations,Identity theft,0.41
-Total Property Crime Violations,Total breaking and entering,260
-Total Property Crime Violations,Total mischief,278
-Total Property Crime Violations,Total possession of stolen property,111
-Total Property Crime Violations,Total theft of motor vehicle,91
-Total Property Crime Violations,Total theft over $5000 (non-motor vehicle),7
-Total Property Crime Violations,Total theft under $5000 (non-motor vehicle),450
-Total Property Crime Violations,Total trafficking in stolen property,1
-Violent Criminal Code Violation,Assault,817
-Violent Criminal Code Violation,Attempted murder,3
-Violent Criminal Code Violation,Criminal harassment,14
-Violent Criminal Code Violation,Extortion,9
-Violent Criminal Code Violation,Homicide,3
-Violent Criminal Code Violation,Indecent/Harassing communications,2
-Violent Criminal Code Violation,Sexual assault,120
-Violent Criminal Code Violation,Total assaults against a peace officer,63
-Violent Criminal Code Violation,Total firearms,5
-Violent Criminal Code Violation,Total forcible confinement or kidnapping,8
-Violent Criminal Code Violation,Total other Assault,4
+YEAR,TC,TP,VC
+2008,1265,2191,5584
+2009,1333,2304,5645
+2010,1351,1927,5249
+2011,1120,1549,4368
+2012,973,1382,3872
+2013,826,1130,3337
+2014,717,872,2709
+2015,749,865,2830
+2016,690,685,2490
+2017,591,605,2411
+2018,592,625,2319
